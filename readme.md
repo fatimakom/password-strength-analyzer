@@ -15,6 +15,13 @@ A modern Password Strength Analyzer built with HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
+## App Preview
+
+![Preview](assets/screenshots/app-preview.png)
+
+## Live Demo
+
+https://password-analyse.netlify.app
 
 ## Author
 
