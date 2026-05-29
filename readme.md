@@ -4,12 +4,11 @@ A modern Password Strength Analyzer built with HTML, CSS, and JavaScript.
 
 ## Features
 
-- Real-time password checking
-- Strength meter
-- Security validation
+- Password strength analysis
+- Password generator
+- Copy password button
+- Show/hide password
 - Responsive UI
-- Show/Hide password
-- Modern design
 
 ## Technologies
 
@@ -19,4 +18,4 @@ A modern Password Strength Analyzer built with HTML, CSS, and JavaScript.
 
 ## Author
 
-Your Name
+Fatima Koumayha
